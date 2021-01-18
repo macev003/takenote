@@ -4,8 +4,7 @@
 
 Create an application that can be used to write, save, and delete notes. This application will use an express backend and save and retrieve note data from a JSON file.
 
-## Click [Here](https://git.heroku.com/polar-crag-63815.git
-/) for deployed application.
+## Click [https://git.heroku.com/polar-crag-63815.git] for deployed application.
 
 ## Applications Used
 * [Bootstrap] (https://bootstrap.com/) - CSS styling used
