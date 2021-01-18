@@ -7,7 +7,7 @@ const db = require("./db/db.json");
 
 // create the server application at the selected port 
 const app = express ();
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3001;
 
 
 // add how we will read the URL or JSON 
