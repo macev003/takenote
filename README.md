@@ -7,7 +7,7 @@ Create an application that can be used to write, save, and delete notes. This ap
 ## Click [Here](https://macev003-polar-crag-63815.herokuapp.com/) for deployed application.
 
 ## Applications Used
-*Bootstrap
+* [Bootstrap] (https://bootstrap.com/) - CSS styling used
 * [Express](https://expressjs.com/) - Node Framework used
 * [Heroku](https://www.heroku.com/) - Used to deploy application
 
