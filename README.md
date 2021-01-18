@@ -4,6 +4,15 @@
 
 Create an application that can be used to write, save, and delete notes. This application will use an express backend and save and retrieve note data from a JSON file.
 
+## Click [Here](https://macev003-takenote303.herokuapp.com/) for deployed application.
+
+## Applications Used
+*Bootstrap
+* [Express](https://expressjs.com/) - Node Framework used
+* [Heroku](https://www.heroku.com/) - Used to deploy application
+
+
+
 ## User Story
 
 AS A user, I want to be able to write and save notes to be better organized. 
