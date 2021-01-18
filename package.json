@@ -1,5 +1,5 @@
 {
-  "name": "note-taker",
+  "name": "takenote",
   "version": "1.0.0",
   "description": "take note is an app that lets you stay organized with notes",
   "main": "server.js",
